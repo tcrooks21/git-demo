@@ -3,9 +3,6 @@
 This is the first file in the repo.
 This is for testing purposes only.
 
-##Ipsum Below
+##Website Content
 
-Lorem ipsum solor dat.
-
-
-BLAHGFH SECOND SET OF JUNK
+1. index.html
